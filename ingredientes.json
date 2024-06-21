@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombreIngrediente": "Helado"
+  },
+  {
+    "id": 2,
+    "nombreIngrediente": "Aceitunas"
+  },
+  {
+    "id": 3,
+    "nombreIngrediente": "Queso"
+  },
+  {
+    "id": 4,
+    "nombreIngrediente": "Arroz"
+  },
+  {
+    "id": 5,
+    "nombreIngrediente": "Huevo"
+  }
+]
